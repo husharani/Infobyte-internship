@@ -1,2 +1,2 @@
 # Infobyte-internship
-Tasks
+Task1
